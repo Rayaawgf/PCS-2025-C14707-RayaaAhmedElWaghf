@@ -110,7 +110,7 @@ Ce chapitre explore les types conteneurs qui permettent de stocker et manipuler 
 
 ##  Conclusion
 
-Cette première semaine m’a permis de (re)découvrir Python sous un angle plus scientifique. J’ai mieux compris les erreurs numériques potentielles, l’importance de la précision dans les calculs, et la nécessité de structurer proprement son code. Ces fondations sont essentielles pour manipuler des données, résoudre des équations numériques ou entraîner des modèles de machine learning.
+Cette première semaine m’a permis de redécouvrir Python sous un angle plus scientifique. J’ai mieux compris les erreurs numériques potentielles et l’importance de la précision dans les calculs. Ces fondations sont essentielles pour manipuler des données, résoudre des équations numériques ou entraîner des modèles de machine learning.
 
-Je me sens désormais plus à l’aise avec les types de base et prêt(e) à aborder NumPy et les outils de calcul intensif. Cette formation m’apporte une rigueur précieuse pour la suite de ma recherche doctorale en intelligence artificielle et cybersécurité.
+
 
